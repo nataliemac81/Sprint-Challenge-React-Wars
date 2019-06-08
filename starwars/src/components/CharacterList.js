@@ -23,5 +23,3 @@ function CharacterList(props) {
 export default CharacterList;
 
 
-// props.starwarsChars.results 
-
